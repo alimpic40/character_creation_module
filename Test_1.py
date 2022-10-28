@@ -18,5 +18,4 @@ def calc(your_number: float) -> float:
           f'{Calculate_Square_Root(your_number)}')
 
 
-print(message)
 calc(25.5)
